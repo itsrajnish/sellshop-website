@@ -1,0 +1,66 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 1px;
+}
+li{
+ 
+    color: gray;
+    cursor: pointer;
+}
+h2{
+    color: rgb(54, 54, 54);
+}
+hr{
+    margin: 40px 0px;
+}
+.seclast{
+    background-image: url("../assest/bg3.webp");
+    background-size: cover;
+}
+.demoo{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+.news input{
+    width: 100%;
+    border: none;
+    padding: 10px;
+    margin: 5px 0px;
+    border-radius:0px;
+    
+}
+.firstrowimg{
+    margin-bottom: 30px;
+}
+.join input{
+    width: 100%;
+    border: none;
+    padding: 10px;
+    margin: 5px 0px;
+    border-radius:0px;
+    
+}
+.news button{
+    border: none;
+    padding: 10px;
+    color: gray;
+    margin: 5px 0px;
+    cursor: pointer;
+    background-color: white;
+}
+.join button{
+    border: none;
+    padding: 10px;
+    color: gray;
+    cursor: pointer;
+    margin: 5px 0px;
+    background-color: white;
+    
+}
+.icon{
+    margin-top: 10px;
+    cursor: pointer;
+    
+}
