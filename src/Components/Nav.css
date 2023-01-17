@@ -1,0 +1,15 @@
+.navvv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: whitesmoke;
+  
+}
+.left{
+    padding: 15px;
+    margin-left: 100px;
+}
+.right{
+    margin-right: 100px;
+}
+

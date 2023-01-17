@@ -1,0 +1,29 @@
+
+p{
+    color: gray;
+    margin: 0px 20px;
+}
+h6{
+    color: gray;
+    
+    
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 20px;
+}
+.last a{
+    color: rgb(200, 90, 90);
+}
+.boximg{
+    box-shadow: 2px 2px 5px gray;
+    background-color: whitesmoke;
+}
+.boximg img{
+    width: 90%;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}

@@ -1,0 +1,16 @@
+.aboutt{
+    display: flex;
+    justify-content: space-around;
+   padding: 100px;
+}
+.insaan img{
+    width: 400px;
+    height: 500px;
+
+}
+.lorem p{
+    padding: 20px;
+}
+.lorem h2{
+    margin-left: 40px;
+}

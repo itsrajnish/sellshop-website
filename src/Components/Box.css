@@ -1,0 +1,14 @@
+h4{
+    color: gray;
+    text-align: center;
+}
+.boxx p{
+    color: rgb(228, 36, 36);
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0px 0px;
+}
+.boxx{
+    width: 20%;
+}
